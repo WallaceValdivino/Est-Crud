@@ -1,14 +1,3 @@
 {
-  "estudantes": [
-    {
-      "id": 1,
-      "name": "jonas",
-      "email": "www"
-    },
-    {
-      "id": 2,
-      "name": "23",
-      "email": "4324324"
-    }
-  ]
+  "estudantes": []
 }

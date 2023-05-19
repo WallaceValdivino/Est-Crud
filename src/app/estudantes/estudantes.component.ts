@@ -26,6 +26,8 @@ isEditing : boolean = false;
       id: [''],
       name: [''],
       email: [''],
+      location: [''],
+      cpf: [''],
     });
   }
 
