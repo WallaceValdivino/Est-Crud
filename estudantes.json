@@ -1,3 +1,11 @@
 {
-  "estudantes": []
+  "estudantes": [
+    {
+      "id": 1,
+      "name": "rwer",
+      "email": "werwer",
+      "location": "rwer",
+      "cpf": 4234324
+    }
+  ]
 }
